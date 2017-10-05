@@ -1,0 +1,83 @@
+number of films entered: 0
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+1
+Enter the name of the film:
+Avengers Age of ultron
+Enter the name of the director: 
+Joss Whedon
+Enter the Year of release: 
+2015
+number of films entered: 1
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+1
+Enter the name of the film:
+The Matrix
+Enter the name of the director: 
+Andy Wachowski, Lana Wachowski
+Enter the Year of release: 
+1999
+number of films entered: 2
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+1
+Enter the name of the film:
+The Lion King
+Enter the name of the director: 
+Rob Minkoff, Roger Allers
+Enter the Year of release: 
+1994
+number of films entered: 3
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+4
+Name: Avengers Age of ultron
+Director: Joss Whedon
+Year of Release: 2015
+
+Name: The Matrix
+Director: Andy Wachowski, Lana Wachowski
+Year of Release: 1999
+
+Name: The Lion King
+Director: Rob Minkoff, Roger Allers
+Year of Release: 1994
+
+number of films entered: 3
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+5
+Sorting by Year
+1994 The Lion King
+1999 The Matrix
+2015 Avengers Age of ultron
+number of films entered: 3
+Press 1 to add a Film
+Press 2 to add a Foreign Film
+Press 3 to add a BollyWoodFilm
+Press 4 to view Films information
+Press 5 to sort films by date
+Press 6 to exit
+6
+Goodbye
